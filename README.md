@@ -2,6 +2,7 @@
 evilsocket's http enumeration script but for windows 
 
 usage: 
+
 [1] - benum WORDLIST EMAIL_DOMAIN
 
 [2] - benum WORDLIST DOMAIN_WORDLIST -a
