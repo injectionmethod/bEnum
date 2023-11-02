@@ -1,4 +1,3 @@
-# bEnum
 evilsocket's http enumeration script but for windows 
 
 usage: 
