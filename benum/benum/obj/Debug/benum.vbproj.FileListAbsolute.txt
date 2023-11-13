@@ -1,0 +1,12 @@
+C:\Users\Fraser\source\repos\benum\benum\bin\Debug\benum.exe.config
+C:\Users\Fraser\source\repos\benum\benum\bin\Debug\benum.exe
+C:\Users\Fraser\source\repos\benum\benum\bin\Debug\benum.pdb
+C:\Users\Fraser\source\repos\benum\benum\bin\Debug\benum.xml
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.vbproj.AssemblyReference.cache
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.Resources.resources
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.vbproj.GenerateResource.cache
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.vbproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.exe
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.xml
+C:\Users\Fraser\source\repos\benum\benum\obj\Debug\benum.pdb
