@@ -1,5 +1,9 @@
 evilsocket's http enumeration script but for windows 
 
+check his socials: 
+
+https://linktr.ee/evilsocket
+
 usage: 
 
 [1] - benum WORDLIST EMAIL_DOMAIN
@@ -15,7 +19,3 @@ usage examples:
 http enumeration script as seen below:
 
 https://www.evilsocket.net/2023/11/02/Enumerate-Bruteforce-Attack-All-The-Things-Presenting-Legba/
-
-check his socials: 
-
-https://linktr.ee/evilsocket
