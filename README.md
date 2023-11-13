@@ -8,8 +8,9 @@ usage:
 
 usage examples:
 
-benum C:/xato.txt gmail.com
-benum C:/xato.txt C:/domains.txt
+[1] benum C:/xato.txt gmail.com
+
+[2] benum C:/xato.txt C:/domains.txt
 
 http enumeration script as seen below:
 
