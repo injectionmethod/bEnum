@@ -1,6 +1,6 @@
 **patched as of January 25th 2024**
 
-evilsocket's http enumeration script but for windows 
+*was* evilsocket's http enumeration script but for windows 
 
 check his socials: 
 
