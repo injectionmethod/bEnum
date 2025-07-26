@@ -14,9 +14,9 @@ usage:
 
 usage examples:
 
-[1] benum C:/xato.txt gmail.com
+[1] benum C:/word-or-username.txt gmail.com
 
-[2] benum C:/xato.txt C:/domains.txt
+[2] benum C:/words-or-usernames.txt C:/domains.txt
 
 http enumeration script as seen below:
 
